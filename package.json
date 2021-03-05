@@ -1,0 +1,24 @@
+{
+  "name": "ShopifySync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okamimac/ShopifySync.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okamimac/ShopifySync/issues"
+  },
+  "homepage": "https://github.com/okamimac/ShopifySync#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "rest-mssql-nodejs": "^1.0.9"
+  }
+}
